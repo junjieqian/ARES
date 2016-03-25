@@ -1,0 +1,7 @@
+scratch/*
+*.pdf
+
+*_results/*
+*_results
+results
+results/*
